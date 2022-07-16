@@ -1,3 +1,5 @@
-# Notes App in React.js
+# Notes App 
+Using React JS
 
-![Screenshot (421)](https://user-images.githubusercontent.com/89729177/132137360-3515b331-6d30-48ea-9959-3b5815e66593.png)
+
+![send](https://user-images.githubusercontent.com/56670647/179357853-69884c94-44f9-47eb-8ef2-6173913f4485.png)
