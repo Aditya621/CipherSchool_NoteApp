@@ -14,7 +14,7 @@
 
 .custom-scroll::-webkit-scrollbar-thumb {
   border-radius: 20px;
-  background-color: rgb(84, 23, 23);
+  background-color: rgb(68, 22, 22);
   transition: 300ms;
 }
 
